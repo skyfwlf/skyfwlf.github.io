@@ -1,0 +1,12 @@
+# Setup
+name:         skyfwlf.github.io
+tagline:       ""
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

@@ -1,7 +1,7 @@
 # Setup
 name:         skyfwlf.github.io
 tagline:       ""
-baseurl:      ""
+baseurl:      "https://skyfwlf.github.io"
 locale:       "en"
 
 # Gems
